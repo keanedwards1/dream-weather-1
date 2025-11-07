@@ -26,3 +26,13 @@ site-footer {
   height: auto;
   max-height: 60px;
 }
+
+.gb-element-bcf4710f {
+    background-color: #aaa5b5 !important;
+    color: black;
+}
+
+.gb-element-bcf4710f em {
+    color: black !important;
+    color: white !important;
+}
